@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sidak-Preet-Singh12
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning C++ programming language.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on with Developers,Creators
 - 📫 How to reach me (You can reach me through telegram and linkedin accounts whose links i provided)
 
 <!---
